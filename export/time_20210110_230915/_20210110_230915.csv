@@ -1,0 +1,5 @@
+,k,lr_u,lr_i,lr_j,sample_method,n_users,n_items,max_epochs,model,naive_error,max_AUC,best_epoch,% improvement,elapsed
+1,20,0.01,0.01,0.01,Uniform,6040,3705,15,0,0.5,0.8390077843615743,2,0.6780155687231486,0:02:54.624571
+,k,lr_u,lr_i,lr_j,sample_method,n_users,n_items,max_epochs,model,naive_error,max_AUC,best_epoch,% improvement,elapsed
+1,20,0.01,0.01,0.01,Uniform,6040,3705,15,0,0.5,0.8390077843615743,2,0.6780155687231486,0:02:54.624571
+1,12,0.001,0.01,0.01,Uniform,6040,3705,15,1,0.5,0.840903602613266,3,0.681807205226532,0:03:49.887892
